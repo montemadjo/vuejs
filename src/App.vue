@@ -21,7 +21,7 @@ export default {
   name: 'app',
   data(){
     return {
-      name: "Adam",
+      name: "Bogdan",
       tasks: [
         {action: "Buy Flowers", done: false},
         {action: "Get Shoes", done: false},
